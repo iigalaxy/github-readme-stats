@@ -274,7 +274,12 @@ const themes = {
     icon_color: "FFFFFF",
     text_color: "92D534",
     bg_color: "151A28",
-  }
+  },
+   space:{
+     title_color: "ffffff",
+     icon_color: "ffffff",
+     text_color: "ffffff",
+     bg_image: url('https://wallpaperaccess.com/thumb/1268183.jpg');
 };
 
 module.exports = themes;
